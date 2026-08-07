@@ -138,3 +138,4 @@ MS Management of Technology — NYU Tandon School of Engineering
 ---
 
 *Built to mirror real product analytics workflows at DoorDash, Amazon, and Meta.*
+*Last updated: August 2026 — Snowflake + dbt pipeline fully operational.*
